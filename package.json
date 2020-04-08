@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/legacy812/budgetTracker/issues"
   },
-  "homepage": "https://github.com/legacy812/budgetTracker#readme"
+  "homepage": "https://github.com/legacy812/budgetTracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^8.2.0"
+  }
 }
